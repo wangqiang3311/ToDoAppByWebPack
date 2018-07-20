@@ -1,6 +1,6 @@
 # learnvue
 
-> A Vue.js project
+学习了vue官方的单文件组件，todo app  https://codesandbox.io/s/o29j95wx9，然后用webpack模板实现了
 
 ## Build Setup
 
