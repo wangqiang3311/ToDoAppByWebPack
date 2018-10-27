@@ -4,6 +4,10 @@
     <button @click="$emit('remove', todo.id)">
       X
     </button>
+
+     <button @click="$emit('update', todo.id)">
+     eidtor
+    </button>
   </li>
 </template>
 
